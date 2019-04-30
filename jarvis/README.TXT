@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE:Jarvis
+PURPOSE OF PROJECT:Understanding basic java code
+VERSION or DATE: --
+HOW TO START THIS PROJECT: Copy the code and run on your ide
+AUTHORS: Adarsh Verma
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
